@@ -1,70 +1,74 @@
-## Hi there, I’m Alexander Katrukhin! 👋  
-**UX Engineer | Design Systems Advocate | AI-Enhanced Front-End Architect**
+# Alexander Katrukhin
 
-Welcome to my GitHub! I specialize in building high-impact, scalable design systems and front-end architectures that bridge design and engineering at scale.
+**UX Engineer | Design Systems Advocate | AI enhanced Front End Architect**
 
----
-
-### 🚀 About Me
-
-Currently a **Senior UX Engineer at Microsoft**, I work across multiple products like Microsoft Teams, SharePoint, and OneDrive. My focus lies in creating shared UI component libraries, design-engineering tooling, and front-end performance optimizations that improve product consistency, accessibility, and developer velocity.
-
-I combine deep UX sensibility with advanced engineering practices — delivering robust, maintainable, and accessible UI foundations. Lately, I've also been exploring how **AI can enhance the design-to-code workflow**, bringing automation and intelligent tooling to front-end development.
+I build scalable design systems and front end architectures that bridge design and engineering. My focus is on accessible, consistent UI foundations, strong developer experience, and measurable product velocity.
 
 ---
 
-### 🧰 Technical Stack & Tools
+## Experience
 
-- **Languages**: TypeScript, JavaScript (ES6+), HTML, SCSS/CSS  
-- **Frameworks**: React, Angular, NX, Tailwind, Radix, ShadCN  
-- **Design & Prototyping**: Figma, Adobe CC, Sketch  
-- **AI & Automation**: LangChain, RAG agents, MCP, CodeRabbit, Cursor  
+**Microsoft – Senior UX Engineer**  
+*2017 to present*
 
----
+- Led UI and UX engineering for shared component libraries adopted across Microsoft Teams, SharePoint, and OneDrive  
+- Built design to engineering tooling that shortens handoff, improves prototyping fidelity, and aligns tokens, theming, and motion across products  
+- Shipped accessible, high interaction components with ARIA patterns, keyboard and screen reader support, and high contrast theming  
+- Partnered with core design system teams to deliver shared, high value components that reduce redundancy and raise quality at scale  
 
-### 💼 Experience Highlights
-
-#### **Microsoft – Senior UX Engineer**  
-<sub>2017 – Present</sub>
-
-- Led UI/UX engineering for cross-product libraries used in **Teams**, **OneDrive**, and **SharePoint**
-- Built tooling that integrates with Figma, accelerates prototyping, and improves alignment between designers and developers
-- Created accessible, highly interactive component libraries using **Fluent UI**, **ARIA**, and **motion design best practices**
-- Partnered with core design system teams to deliver **shared, high-value components** that reduce redundancy and increase consistency
-
-For more, check out [ux-engineer.com](https://ux-engineer.com)
+More details: [ux-engineer.com](https://ux-engineer.com)
 
 ---
 
-### 🔬 Currently Exploring
+## Expertise
 
-- AI-integrated workflows for rapid UI prototyping and testing  
-- Cross-platform component standardization (React/Angular/Native)  
-- Scalable dashboard patterns, multi-state layouts, and presence-driven motion  
-- Property and permit intelligence systems (SaaS MVP work)  
+**Design systems at scale**  
+Governance, contribution models, tokens and theming, release strategy, documentation, change management
 
----
+**Component architecture**  
+Pattern libraries, state and interaction modeling, motion and presence patterns, multi platform alignment
 
-### 📂 Featured Projects
+**Accessibility and quality**  
+WCAG 2.2 AA conformance, semantic structure, input and focus management, automated and manual testing
 
-🔹 [**MagicBox**](https://github.com/akatrukhin/MagicBox)  
-Desktop tool for minifying, organizing, and exporting design/source assets per project.
+**Performance and reliability**  
+Rendering and bundle strategy, profiling and budgets, regression detection in CI, visual and interaction diffs
 
-🔹 [**Fluent UI React Charts**](https://officedev.github.io/microsoft-data-visualization-library/?path=/story/charts-stacked-bar--high-contrast)  
-Accessible charting components with full **Teams theming** and **high contrast** support.
+**Tooling and developer experience**  
+Design to code pipelines, UI build and release workflows, preview and review environments, reliability gates
 
-🔹 [**Teams React UI Library**](https://63587347138fdad13ed63ccd-omfbjvvebn.chromatic.com/?path=/story/ui-templates-task-boards--kitchen-sink)  
-Component library aligned with **Microsoft Teams UI Kit**, providing robust, accessible building blocks for Teams apps.
-
----
-
-### 📫 Let’s Connect
-
-- 📧 **Email**: [a.katrukhin@gmail.com](mailto:a.katrukhin@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/alexanderkatrukhin](https://linkedin.com/in/alexanderkatrukhin)  
-- 🌐 **Portfolio**: [ux-engineer.com](https://ux-engineer.com)  
+**AI assisted engineering**  
+Retrieval augmented docs and examples, code review automation, agent based helper tools in the UI workflow
 
 ---
 
-Thanks for visiting!  
-Whether you're here to explore UI libraries, collaborate on AI-powered tooling, or just talk motion and design systems — feel free to reach out.
+## Currently exploring
+
+- AI integrated workflows for rapid prototyping, testing, and documentation  
+- Cross stack standardization of high value components and patterns  
+- Scalable dashboard layouts, multi state UIs, and motion systems for presence and activity  
+- Property and permit intelligence systems as a SaaS MVP  
+
+---
+
+## Featured projects
+
+**MagicBox**  
+Desktop tool for minifying, organizing, and exporting design and source assets per project  
+[https://github.com/akatrukhin/MagicBox](https://github.com/akatrukhin/MagicBox)
+
+**Fluent UI React Charts**  
+Accessible charting components with Teams theming and high contrast support  
+[https://officedev.github.io/microsoft-data-visualization-library/?path=/story/charts-stacked-bar--high-contrast](https://officedev.github.io/microsoft-data-visualization-library/?path=/story/charts-stacked-bar--high-contrast)
+
+**Teams React UI Library**  
+Component library aligned with the Microsoft Teams UI Kit for building robust, accessible Teams apps  
+[https://63587347138fdad13ed63ccd-omfbjvvebn.chromatic.com/?path=/story/ui-templates-task-boards--kitchen-sink](https://63587347138fdad13ed63ccd-omfbjvvebn.chromatic.com/?path=/story/ui-templates-task-boards--kitchen-sink)
+
+---
+
+## Contact
+
+**Email**: [a.katrukhin@gmail.com](mailto:a.katrukhin@gmail.com)  
+**LinkedIn**: [linkedin.com/in/alexanderkatrukhin](https://linkedin.com/in/alexanderkatrukhin)  
+**Portfolio**: [ux-engineer.com](https://ux-engineer.com)
