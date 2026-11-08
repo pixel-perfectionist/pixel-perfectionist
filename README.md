@@ -2,6 +2,10 @@
 
 **UX Engineer | Design Systems Advocate | AI enhanced Front End Architect**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ux--engineer.com-0A66C2)](https://ux-engineer.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexanderkatrukhin-0A66C2?logo=linkedin)](https://linkedin.com/in/alexanderkatrukhin)
+![Followers](https://img.shields.io/github/followers/pixel-perfectionist?style=social)
+
 I build scalable design systems and front end architectures that bridge design and engineering. My focus is on accessible, consistent UI foundations, strong developer experience, and measurable product velocity.
 
 ---
@@ -53,9 +57,8 @@ Retrieval augmented docs and examples, code review automation, agent based helpe
 
 ## Featured projects
 
-**MagicBox**  
-Desktop tool for minifying, organizing, and exporting design and source assets per project  
-[https://github.com/akatrukhin/MagicBox](https://github.com/akatrukhin/MagicBox)
+**[MagicBox](https://github.com/pixel-perfectionist/MagicBox)** [![GitHub stars](https://img.shields.io/github/stars/pixel-perfectionist/MagicBox?style=social)](https://github.com/pixel-perfectionist/MagicBox/stargazers)  
+Electron desktop app for minifying, organizing, and exporting design and source assets per project
 
 **Fluent UI React Charts**  
 Accessible charting components with Teams theming and high contrast support  
